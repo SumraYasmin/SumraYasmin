@@ -1,5 +1,5 @@
 ## Hi there 👋  
-I'm **Samra Yasmin**!
+I'm **Sumra Yasmin**!
 
 👩‍💻 I'm a full-stack developer with over **6 years** of experience working with **Ruby on Rails**, **React**, **Next.js**, **TypeScript** and **Python** — building scalable, maintainable, and user-focused web applications.
 
